@@ -1,0 +1,10 @@
+*.pyd
+*.h5
+*.pkl
+*.zip
+*.tar.gz
+*.whl
+*.log
+new/Lib/
+venv/
+__pycache__/
